@@ -1,0 +1,8 @@
+In this section, we will learn about
+
+(1) C strings
+(2) C++ strings
+(3) Modifying strings
+(4) Searching strings
+(5) Extracting substrings
+(6) Converting strings to numbers and vice versa

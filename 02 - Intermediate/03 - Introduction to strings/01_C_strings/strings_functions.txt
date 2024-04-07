@@ -1,0 +1,5 @@
+Here is a bunch of that are used for working with C strings
+(1) strlen(): return the length of a strings
+(2) strcat(): combine two strings
+(3) strcpy(): This function take second arguments and copied to the first arguments
+(4) strcmp(): compare pointers of two strings
